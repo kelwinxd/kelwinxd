@@ -1,18 +1,21 @@
 ### Hi there 👋
 <h2> Kelwin </h2>
-<div align="center">
-  <a href="https://github.com/kelwinxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelwinxd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
+
 </br>
 </br>
 
- <div>
+ <div align="center">
 <img src="https://github.com/kelwinxd/HTML-CSS/blob/main/readmevideo.gif" width="500px" height="300px" />
-  
+  <a style="margin-left:20px" href="https://www.linkedin.com/in/kelwin-esechiel-399ba4229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a style="margin-left:50px" href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
- 
+
+
+Hey there! Welcome to my developer portfolio's GitHub repository. I'm a passionate developer with a background in web development and a knack for problem-solving. 
+
+🌟 **Portfolio:** [My Portfolio Website](https://www.myportfolio.com)
+
+
 
 <!--
 **kelwinxd/kelwinxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
