@@ -5,7 +5,7 @@
 </br>
 
  <div align="center">
-<img src="https://github.com/kelwinxd/HTML-CSS/blob/main/readmevideo.gif" width="500px" height="300px" />
+<img src="https://github.com/kelwinxd/HTML-CSS/blob/main/readmevideo.gif" width="500px" height="350px" />
   </br>
 </br>
   <a style="margin-left:20px" href="https://www.linkedin.com/in/kelwin-esechiel-399ba4229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,7 +15,7 @@
 
 Hey there! Welcome to my developer portfolio's GitHub repository. I'm a passionate developer with a background in web development and a knack for problem-solving. 
 
-🌟 **Portfolio:** [My Portfolio Website](https://www.myportfolio.com)
+🌟 **Portfolio:** [My Portfolios](https://github.com/kelwinxd/Projects)
 
 
 
