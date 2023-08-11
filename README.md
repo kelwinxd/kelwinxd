@@ -9,8 +9,7 @@
 </br>
 
  <div>
- <a style="margin-left:20px" href="https://www.linkedin.com/in/kelwin-esechiel-399ba4229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a style="margin-left:50px" href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img src="https://github.com/kelwinxd/HTML-CSS/blob/main/readmevideo.gif" width="500px" height="300px" />
   
   </div>
  
